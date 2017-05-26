@@ -39,7 +39,7 @@ An open-source document database and leading NoSQL database.
 
 #### ReactJS
 One of the most popular front end JavaScript libraries.
->To get started with React, install [Webpack](https://www.npmjs.com/package/webpack)
+>To get started with React, install [Webpack](https://www.npmjs.com/package/webpack).
 To install webpack run :
 ```$ npm install --save-dev webpack```
 
