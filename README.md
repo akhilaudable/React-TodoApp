@@ -53,7 +53,10 @@ which prints the Welcome, <name>
 If you have not given any name your name will be assigned as "Unknown". 
 
 ### Project Demo 
-
+![Home page](https://github.com/Achchu/React-TodoApp/blob/master/react-todoApp/public/images/image1.png)
+![Lists](https://github.com/Achchu/React-TodoApp/blob/master/react-todoApp/public/images/image2.png)
+![Delete](https://github.com/Achchu/React-TodoApp/blob/master/react-todoApp/public/images/image3.png)
+![Edit](https://github.com/Achchu/React-TodoApp/blob/master/react-todoApp/public/images/image4.png)
 
 
 
